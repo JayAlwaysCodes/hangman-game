@@ -1,0 +1,2 @@
+words =["my", "goal", "here", "is", "for", "something", "that", "partly", "tutorial", "and", "reference", "book", "like", "how",
+"tutorials", "get", "you", "up", "running", "quickly", "but", "they", "can", "often", "be", "little", "wordy", "disorganized"]
